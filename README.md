@@ -32,3 +32,4 @@ All included code is available under the CC0 1.0 Universal Public Domain Dedicat
 # sphincsplus-sm3
 # sphincsplus-sm3
 # sphincsplus_sm3
+# sphincsplus_sm3
